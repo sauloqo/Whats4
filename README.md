@@ -4,7 +4,7 @@ Projeto criado usando o ReactJs.
   
 ## Stack Front-end
 
-O front-end desse projeto segue a arquitetura da criação de um projeto react simples, com o arquivo **_App_** como principal renderizador e uma pasta de **_Component_** que renderiza os inputs de texto.
+O front-end desse projeto segue a arquitetura da criação de um projeto react simples, com o arquivo **_App_** como principal renderizador e uma pasta **_component_** que renderiza os inputs de texto.
 
 ## Linguagens e serviços utilizadas Back-end
 Javascript, Surge, React, Material-ui, Styled Components, gerenciadores de pacotes do Nodejs: yarn e npm.
