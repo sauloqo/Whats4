@@ -17,8 +17,8 @@ Primeiro projeto feito usando react durante o curso Web Full Stack. Criado para 
 
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em sua máquina, basta abrir o terminal e navegar até o repositório clonado e rodar:
 
-npm install ou yarn para instalar todas as dependências;
-npm run start ou yarn start para rodar localmente o projeto;
+npm install ou yarn para instalar todas as dependências; <br />
+npm run start ou yarn start para rodar localmente o projeto; <br />
 npm run build ou yarn build para gerar uma versão estática do projeto (que ficará na pasta build);
 
 ## Links
